@@ -1,2 +1,2 @@
 #blog
-https://poarrty.github.com/blog/2023/09/16/hello-world/
+https://poarrty.github.io/blog/2023/09/16/hello-world/

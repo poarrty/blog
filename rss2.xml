@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>雨飘人间</title>
-    <link>http://example.com/</link>
+    <link>https://poarrty.github.io/blog/</link>
     
-    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://poarrty.github.io/blog/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>往事总是悲伤的</description>
     <pubDate>Sat, 16 Sep 2023 14:31:18 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://example.com/2023/09/16/hello-world/</link>
-      <guid>http://example.com/2023/09/16/hello-world/</guid>
+      <link>https://poarrty.github.io/blog/2023/09/16/hello-world/</link>
+      <guid>https://poarrty.github.io/blog/2023/09/16/hello-world/</guid>
       <pubDate>Fri, 15 Sep 2023 17:26:21 GMT</pubDate>
       
         
@@ -30,7 +30,7 @@
       
       
       
-      <comments>http://example.com/2023/09/16/hello-world/#disqus_thread</comments>
+      <comments>https://poarrty.github.io/blog/2023/09/16/hello-world/#disqus_thread</comments>
       
     </item>
     
