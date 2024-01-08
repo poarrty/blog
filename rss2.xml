@@ -9,7 +9,7 @@
     <atom:link href="https://poarrty.github.io/blog/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>往事总是悲伤的</description>
-    <pubDate>Mon, 08 Jan 2024 14:41:59 GMT</pubDate>
+    <pubDate>Mon, 08 Jan 2024 15:04:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,13 +20,13 @@
       
         
         
-      <description>&lt;p&gt;#减肥计划，启动。。&lt;br&gt;&lt;img src=&quot;/blog/../images/my-blog.png&quot; alt=&quot;ALT&quot;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;#减肥计划，启动。。&lt;br&gt;&lt;img src=&quot;https://poarrty.github.io/blog/images/my-blog.png&quot;&gt;&lt;/p&gt;
 </description>
         
       
       
       
-      <content:encoded><![CDATA[<p>#减肥计划，启动。。<br><img src="/blog/../images/my-blog.png" alt="ALT"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>#减肥计划，启动。。<br><img src="https://poarrty.github.io/blog/images/my-blog.png"></p>]]></content:encoded>
       
       
       
