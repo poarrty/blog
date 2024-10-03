@@ -9,7 +9,7 @@
     <atom:link href="https://poarrty.github.io/blog/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>往事总是悲伤的</description>
-    <pubDate>Thu, 03 Oct 2024 06:24:33 GMT</pubDate>
+    <pubDate>Thu, 03 Oct 2024 17:24:27 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -22,12 +22,12 @@
         
       <description>&lt;p&gt;Today is Ocbtober 3, 2024, and the wheather is fine. &lt;/p&gt;
 &lt;p&gt;I went back to my hometown and wasn’t in good mood.&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;good </description>
         
       
       
       
-      <content:encoded><![CDATA[<p>Today is Ocbtober 3, 2024, and the wheather is fine. </p><p>I went back to my hometown and wasn’t in good mood.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Today is Ocbtober 3, 2024, and the wheather is fine. </p><p>I went back to my hometown and wasn’t in good mood.</p><p><em><strong>good morning!</strong></em></p>]]></content:encoded>
       
       
       
