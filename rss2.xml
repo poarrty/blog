@@ -9,8 +9,34 @@
     <atom:link href="https://poarrty.github.io/blog/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>往事总是悲伤的</description>
-    <pubDate>Mon, 08 Jan 2024 15:21:25 GMT</pubDate>
+    <pubDate>Thu, 03 Oct 2024 06:24:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>My say day</title>
+      <link>https://poarrty.github.io/blog/2024/10/03/My-New-Post/</link>
+      <guid>https://poarrty.github.io/blog/2024/10/03/My-New-Post/</guid>
+      <pubDate>Thu, 03 Oct 2024 06:15:17 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Today is Ocbtober 3, 2024, and the wheather is fine. &lt;/p&gt;
+&lt;p&gt;I went back to my hometown and wasn’t in good mood.&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Today is Ocbtober 3, 2024, and the wheather is fine. </p><p>I went back to my hometown and wasn’t in good mood.</p>]]></content:encoded>
+      
+      
+      
+      <category domain="https://poarrty.github.io/blog/tags/sad-day/">sad day</category>
+      
+      
+      <comments>https://poarrty.github.io/blog/2024/10/03/My-New-Post/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>my blog</title>
